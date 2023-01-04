@@ -8,9 +8,6 @@
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
   <a href="https://github.com/776271052?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/776271052?color=green&logo=github">
   </a>
