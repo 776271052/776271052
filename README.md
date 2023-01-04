@@ -17,11 +17,10 @@
   <img src="https://raw.githubusercontent.com/776271052/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+- :office: &nbsp;I'm currently working at **[null]**
 - :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :speech_balloon: &nbsp;I like to talk about **IT** and **Game**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
