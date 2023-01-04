@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm wuli</h1>
+<h3 align="left">I am a Versatilist, doing null Engineering things</h3>
 
 <p align="left">
   <a href="https://github.com/776271052/776271052">
@@ -18,7 +18,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **[null]**
-- :seedling: &nbsp;I’m currently learning **Go**
+- :seedling: &nbsp;I’m currently learning **IT**
 - :speech_balloon: &nbsp;I like to talk about **IT** and **Game**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
